@@ -130,3 +130,5 @@ dmypy.json
 *.conf
 data/
 pgadmin_data/
+app/image_service/migrations/
+app/profiles/migrations/

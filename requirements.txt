@@ -1,2 +1,6 @@
 Django
+django-cors-middleware
+django-extensions
+djangorestframework
 psycopg2
+PyJWT==1.4.2
